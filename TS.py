@@ -1,5 +1,5 @@
 from os import system
-print("By : @MM88X)
+print("By : @MM88X")
 print('')
 
 option = """
